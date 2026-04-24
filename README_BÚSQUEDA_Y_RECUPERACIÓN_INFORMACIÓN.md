@@ -64,5 +64,4 @@ jupyter notebook TRABAJO_21_4_26.ipynb
 Los tres modelos son evaluados con métricas de Accuracy, Precision, Recall y F1-Score cuando hay casos positivos de deserción disponibles.
 
 ## Autores
-
-- Andres Zapata Calle
+Andres Zapata Calle
