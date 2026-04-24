@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto aplica tres modelos clásicos de recuperación de información — **Booleano**, **Vectorial** y **Probabilístico** — al problema de predecir la deserción estudiantil universitaria. Cada estudiante es tratado como un "documento", y sus características académicas y financieras como "términos", permitiendo identificar a los estudiantes con mayor riesgo de abandono mediante técnicas de búsqueda y recuperación de información.
+Este proyecto aplica tres modelos clásicos de recuperación de información **Booleano**, **Vectorial** y **Probabilístico**  al problema de predecir la deserción estudiantil universitaria. Cada estudiante es tratado como un "documento", y sus características académicas y financieras como "términos", permitiendo identificar a los estudiantes con mayor riesgo de abandono mediante técnicas de búsqueda y recuperación de información.
 
 ## Dataset
 
